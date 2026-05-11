@@ -12,4 +12,4 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "durak20009-site"
+rootProject.name = "teplov-groove-room"

@@ -4,13 +4,13 @@ plugins {
     id("io.ktor.plugin") version "3.0.3"
 }
 
-group = "com.durak20009"
+group = "com.nikitateplov"
 version = "1.0.0"
 
 val ktorVersion = "3.0.3"
 
 application {
-    mainClass.set("com.durak20009.ApplicationKt")
+    mainClass.set("com.nikitateplov.ApplicationKt")
 }
 
 kotlin {

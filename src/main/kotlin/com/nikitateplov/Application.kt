@@ -1,4 +1,4 @@
-package com.durak20009
+package com.nikitateplov
 
 import io.ktor.http.ContentType
 import io.ktor.http.HttpStatusCode
